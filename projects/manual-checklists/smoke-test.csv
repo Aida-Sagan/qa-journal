@@ -1,0 +1,6 @@
+"ID","Scenario","Status"
+"1","API health check","Pass"
+"2","UI main page loads","Pass"
+"3","User login with valid credentials","Pass"
+
+---
